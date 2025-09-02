@@ -12,7 +12,7 @@ header {
 }
 
 section {
-  backgroud: #0628e9;
+  backgroud: #5c0909;
   padding-botton: 80px;
   display: flex;
   justify-content: center;
@@ -26,5 +26,9 @@ section {
   h1 {
     font-size: 40xp;
 
+  }
+
+  p {
+    font-size: 20px;
   
-  
+  }
