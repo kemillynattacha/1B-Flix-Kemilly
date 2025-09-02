@@ -8,4 +8,12 @@ header {
   padding: 20px;
   font_size: 50px;
   color: #45f5f0;
+
+}
+
+section {
+  backgroud: #0628e9;
+  padding-botton: 80px;
+  display: flex;
+  justify-content: center;
   
