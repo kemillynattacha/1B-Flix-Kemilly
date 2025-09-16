@@ -8,14 +8,15 @@ body {
 header {
   border-botton: solid 2xp #15a5e3;
   padding: 20px;
-  font_size: 50px;
+  font_size: 40px;
   color: #45f5f0;
 
 }
 
 section {
   backgroud: #5c0909;
-  padding-botton: 80px;
+  padding-bottom: 80px;
+  padding-top: 80px;
   display: flex;
   justify-content: center;
 
