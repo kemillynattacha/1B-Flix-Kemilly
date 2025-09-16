@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  border-botton: solid 2xp #15a5e3;
+  border-botton: solid 2px #15a5e3;
   padding: 20px;
   font_size: 40px;
   color: #45f5f0;
@@ -27,7 +27,7 @@ section {
   {
 
   h1 {
-    font-size: 40xp;
+    font-size: 40px;
 
   }
 
